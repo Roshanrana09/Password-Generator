@@ -1,2 +1,29 @@
-# Password-Generator
-I have created this project using HTML, CSS, JavaScript, PHP and MySQL. So you'll need to run it on a local server. Before running it, place the project folder inside the htdocs folder of your XAMPP directory. Then, start your XAMPP server and access the project from there — you'll be able to use it easily.
+# 🔐 Password Generator App
+This is a simple yet powerful **Password Generator** web application built using **HTML, CSS, and JavaScript**. It allows users to generate strong, random, and secure passwords with just one click. Users can customize the password length and choose what types of characters to include — uppercase, lowercase, numbers, and symbols.
+
+Whether you're managing personal accounts or building apps that require strong authentication, this tool ensures you never run out of secure password ideas!
+
+---
+
+## 🚀 Features
+
+- ✅ Generate strong random passwords
+- 🔢 Customizable password length
+- 🔡 Include/exclude:
+  - Uppercase letters (A-Z)
+  - Lowercase letters (a-z)
+  - Numbers (0–9)
+  - Symbols (!@#$%^&*, etc.)
+- 📋 Copy password to clipboard with one click
+- 📱 Fully responsive design
+- 🎨 Clean and modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5      | Markup and page structure |
+| CSS3       | Styling and responsive layout |
+| JavaScript | Password logic, user interaction, clipboard feature |
